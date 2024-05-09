@@ -3,3 +3,5 @@ app
 *.test
 *.out
 tmp
+/node_modules
+
